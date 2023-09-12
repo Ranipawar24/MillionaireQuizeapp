@@ -1,7 +1,7 @@
 # MillionaireQuizeapp
- mini project
 
- Features:
+
+# Features:
 
 Users can start the game by entering their name.
 Each question has a timer that counts down from 30 seconds. If the timer reaches 0 before the user selects an answer, the game ends.
@@ -11,6 +11,8 @@ The app displays a pyramid of increasing prize amounts on the right side. Users 
 The app includes audio feedback for various events, such as starting the game, answering questions correctly, and answering questions incorrectly. Different sounds are played for these events.
 The app is designed to be responsive, ensuring that it functions well on different screen sizes and orientations.
 
-Tech Stacks: HTML, CSS, JavaScript, React, Audio Integration, Google Fonts 
+# Tech Stacks: 
+HTML, CSS, JavaScript, React, Audio Integration, Google Fonts 
 
-Description: The website represents a quiz application built with React. This quiz app allows users to answer trivia questions, earn money for correct answers, and progress through a pyramid of increasing prize amounts.
+# Description: 
+The website represents a quiz application built with React. This quiz app allows users to answer trivia questions, earn money for correct answers, and progress through a pyramid of increasing prize amounts.
