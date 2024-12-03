@@ -20,3 +20,6 @@ The website represents a quiz application built with React. This quiz app allows
 # Screenshots:
 
 ![Screenshot (134)](https://github.com/user-attachments/assets/ba59e711-6bb9-4676-bc88-7762471c1e20)
+
+
+![Screenshot (135)](https://github.com/user-attachments/assets/23faaf12-6cf9-4804-bfce-0c0f5dd96df4)
