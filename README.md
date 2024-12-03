@@ -23,3 +23,5 @@ The website represents a quiz application built with React. This quiz app allows
 
 
 ![Screenshot (135)](https://github.com/user-attachments/assets/23faaf12-6cf9-4804-bfce-0c0f5dd96df4)
+
+![Screenshot (137)](https://github.com/user-attachments/assets/90d21b3a-1042-4961-957c-dc119cb9165f)
