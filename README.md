@@ -16,3 +16,7 @@ HTML, CSS, JavaScript, React, Audio Integration, Google Fonts
 
 # Description: 
 The website represents a quiz application built with React. This quiz app allows users to answer trivia questions, earn money for correct answers, and progress through a pyramid of increasing prize amounts.
+
+# Screenshots:
+
+![Screenshot (134)](https://github.com/user-attachments/assets/ba59e711-6bb9-4676-bc88-7762471c1e20)
